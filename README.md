@@ -1,2 +1,2 @@
 # Ubuntu LTS with sshd
-    Ubuntu 14.04.5 LTS with openssh-server
+    Ubuntu 16.04.1 LTS with openssh-server

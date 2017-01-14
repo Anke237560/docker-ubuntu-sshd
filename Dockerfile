@@ -1,4 +1,4 @@
-FROM ubuntu:12.04.5
+FROM ubuntu:14.04.5
 MAINTAINER Docker Anke <anke950@gmail.com>
 RUN apt-get --quiet --quiet update && \
 	apt-get --quiet --quiet upgrade --assume-yes && \
